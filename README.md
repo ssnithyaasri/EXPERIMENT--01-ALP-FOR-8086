@@ -1,6 +1,10 @@
 # EXPERIMENT--01-ALP-FOR-8086
+
+
 Name :NITHYAA SRI S S
+
 Roll no :212222230100
+
 Date of experiment :08/09/2024
 
 
@@ -133,10 +137,14 @@ HLT
 
 ## Output  
 ![ex 1 10](https://github.com/user-attachments/assets/5e8adbfc-2993-4f83-a47a-217c04e0a443)
+![ex1 11](https://github.com/user-attachments/assets/5558e91a-9075-4b6e-8a44-04bc3dd0157c)
+
+![ex1 12](https://github.com/user-attachments/assets/c0e3f7ec-d8c6-4169-abea-a0d3eef1c4ba)
 
 
 
 ## Result :
+Thus the ALP on fundamental arithmetic and logical operations is written and executed successfully.
  
 
 
