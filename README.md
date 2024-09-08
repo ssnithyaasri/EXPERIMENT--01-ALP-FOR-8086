@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name :NITHYAA SRI S S
+Roll no :212222230100
+Date of experiment :08/09/2024
 
 
 
@@ -82,6 +82,13 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 ## Output  
+
+![ex1 1](https://github.com/user-attachments/assets/b455a786-410f-4d00-b8b3-aca976e6936e)
+![ex1 2](https://github.com/user-attachments/assets/0ed9fccb-35c6-47db-92bf-50731e0551f3)
+![ex1 3](https://github.com/user-attachments/assets/ea9e2edf-8cd4-4a10-98c5-88d40330cb11)
+
+
+
  
 ## Subtraction   of 8 bit numbers  ALP 
  
