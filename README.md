@@ -78,9 +78,12 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ## Programs for arithmetic  operations
 
 ## Addition  of 8 bit ALP 
-
-
-
+```
+MOV AX,78H;
+MOV BX,69H;
+ADD AX,BX
+HLT
+```
 ## Output  
 
 ![ex1 1](https://github.com/user-attachments/assets/b455a786-410f-4d00-b8b3-aca976e6936e)
@@ -91,15 +94,46 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
  
 ## Subtraction   of 8 bit numbers  ALP 
+```
+MOV AL,68H;
+MOV BL,33H;
+SUB AL,BL
+HLT
+
+```
  
-## Output  
+## Output 
+![ex1 4](https://github.com/user-attachments/assets/66c41003-389a-4e92-a287-cf6d0fbf449e)
+![ex1 5](https://github.com/user-attachments/assets/c6a1acfe-4e86-4253-b142-f97fd5ef2604)
+![ex1 6](https://github.com/user-attachments/assets/1b5afe0f-c578-42e4-afb2-5ad1771791f2)
+
+
+
 ## Multiplication alp 
- ## Output  
+```
+MOV AL,75H;
+MOVE BL,12H;
+MUL BL
+HLT
+```
+ ## Output
+![EX1 7](https://github.com/user-attachments/assets/9c31162d-d00e-4b5b-9b9c-0a0b0034c617)
+![ex1 8](https://github.com/user-attachments/assets/38fae50b-307b-473d-8444-67409787dcf1)
+![ex1 9](https://github.com/user-attachments/assets/b720225f-7d76-47f3-894d-8a4ea06309bc)
+
 
 
 ## Division alp 
+```
+MOV AL,65H;
+MOV BL,15H;
+DIV BL
+HLT
+```
 
 ## Output  
+![ex 1 10](https://github.com/user-attachments/assets/5e8adbfc-2993-4f83-a47a-217c04e0a443)
+
 
 
 ## Result :
